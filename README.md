@@ -24,45 +24,36 @@ data-driven decision-making.
 ## 📁 Project Structure
 
     📦 HR Analysis
-     ┣ 📊 HR Analysis.pbix
-     ┣ 📄 README.md
-     ┗ 📂 data (optional)
+       📊 HR Analysis.pbix
+       📄 README.md
+       📂 HR Analysis.xlsx
 
 ## 🛠️ Tools & Technologies
 
--   Power BI Desktop\
--   DAX (Data Analysis Expressions)\
--   Data Cleaning & Transformation\
+-   Power BI Desktop
+-   DAX (Data Analysis Expressions)
+-   Data Cleaning & Transformation
 -   Data Visualization Techniques
 
 ## 📥 How to Use
 
-1.  Download/clone the repository\
-2.  Open **HR Analysis.pbix** in Power BI Desktop\
-3.  Interact with the dashboards using slicers and filters\
+1.  Download/clone the repository
+2.  Open **HR Analysis.pbix** in Power BI Desktop
+3.  Interact with the dashboards using slicers and filters
 4.  Modify visuals or add new insights as needed
 
 ## 📌 Key Insights Delivered
 
--   Department with highest attrition\
--   Correlation between salary and attrition\
--   Demographic patterns influencing employee churn\
--   Performance vs attrition analysis\
+-   Department with highest attrition
+-   Correlation between salary and attrition
+-   Demographic patterns influencing employee churn
+-   Performance vs attrition analysis
 -   Job role--wise employee distribution
 
 ## 🧪 Future Enhancements
 
--   Predictive attrition model using Machine Learning\
--   Automated refresh with Power BI Service\
--   Integration with SQL Database\
+-   Predictive attrition model using Machine Learning
+-   Automated refresh with Power BI Service
+-   Integration with SQL Database
 -   HR KPI Scorecard
 
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you'd like to modify.
-
-## 📬 Contact
-
-**GJ (Jashwanth)**\
-*Data Analyst \| Power BI \| Python \| SQL*
